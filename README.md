@@ -3,7 +3,7 @@
 **Data scientist & lab automation** · PhD, Pharmacology & Physiology, UCL
 
 I automate and analyse high-content screening for **CFTR drug discovery**, from the microscope to the final report. During my PhD I built:
-- **lab automation and systems integration** that connects automated high-content confocal imaging systems directly to the analysis pipeline. Finished plates are transferred automatically, and the instrument's acquisition metadata sets the QC settings and records which wells were acquired. Wells lost to instrument faults are removed without manual editing, and Excel, GraphPad Prism and PowerPoint reports are produced at the end.
+- **lab automation and systems integration** that connects automated high-content confocal imaging systems directly to the analysis pipeline. Finished plates are transferred automatically, and the instrument's acquisition metadata sets the QC settings and records which wells were acquired. Wells lost to instrument faults are removed without manual editing, and Excel, GraphPad Prism and PowerPoint reports are produced at the end. **This cut hands-on time per plate from 3 hours to 20 minutes.**
 - deep-learning segmentation (Cellpose) of single cells, scaled on high-performance computing (HPC) clusters
 - statistical QC, assay validation (Z′-factor, SSMD) and dose-response modelling
 
